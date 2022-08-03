@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.numberOfGoodParis_1512;
 
 public class NumberOfGoodPairs1512 {
     public static void main(String[] args) {

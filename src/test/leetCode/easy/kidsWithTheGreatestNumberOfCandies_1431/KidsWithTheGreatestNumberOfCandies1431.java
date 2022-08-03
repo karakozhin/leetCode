@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.kidsWithTheGreatestNumberOfCandies_1431;
 
 import java.util.ArrayList;
 import java.util.List;

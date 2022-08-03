@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.subtractTheProductAndSumOfDigitsOfAnInteger_1281;
 
 public class SubtractTheProductAndSumOfDigitsOfAnInteger1281 {
     public static void main(String[] args) {

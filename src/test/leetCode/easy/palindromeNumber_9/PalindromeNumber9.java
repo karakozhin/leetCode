@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.palindromeNumber_9;
 
 public class PalindromeNumber9 {
     public static void main(String[] args) {

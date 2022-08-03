@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.toLowerCase_709;
 
 public class ToLowerCase709 {
     public static void main(String[] args) {

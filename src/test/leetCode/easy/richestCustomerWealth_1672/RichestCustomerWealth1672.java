@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.richestCustomerWealth_1672;
 
 
 public class RichestCustomerWealth1672 {

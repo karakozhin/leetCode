@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.howManyNumbersAreSmallerThanTheCurrentNumber_1365;
 
 import java.util.Arrays;
 

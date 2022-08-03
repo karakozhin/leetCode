@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.sumOfArray_1480;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.reverseInteger_7;
 
 
 public class ReverseInteger7 {

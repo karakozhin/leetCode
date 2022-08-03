@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.twoSum_1;
 
 
 import java.util.Arrays;

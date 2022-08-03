@@ -1,6 +1,4 @@
-package leetCode;
-
-import java.util.Arrays;
+package test.leetCode.easy.defangingAnIpAddress_1108;
 
 public class DefangingAnIpAddress1108 {
     public static void main(String[] args) {

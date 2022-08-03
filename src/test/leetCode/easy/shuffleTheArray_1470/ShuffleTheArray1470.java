@@ -1,4 +1,4 @@
-package test;
+package test.leetCode.easy.shuffleTheArray_1470;
 
 import java.util.Arrays;
 

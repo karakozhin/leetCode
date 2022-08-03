@@ -1,4 +1,4 @@
-package test;
+package test.leetCode;
 
 public class FindMaxArray {
     public static void main(String[] args) {

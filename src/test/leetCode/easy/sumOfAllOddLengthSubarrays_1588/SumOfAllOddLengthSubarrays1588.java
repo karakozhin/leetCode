@@ -1,7 +1,4 @@
-package test;
-
-import java.util.ArrayList;
-import java.util.List;
+package test.leetCode.easy.sumOfAllOddLengthSubarrays_1588;
 
 //неправильно прочитал задание и сделал по другому
 public class SumOfAllOddLengthSubarrays1588 {
