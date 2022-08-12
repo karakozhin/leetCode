@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f146b0f7-e223-422c-8598-777014fe0d55" name="Default Changelist" comment="" />
+    <list default="true" id="f146b0f7-e223-422c-8598-777014fe0d55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/leetCode/easy/longestCommonPrefix_14/LongestCommonPrefix14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/leetCode/easy/validParentheses_20/ValidParentheses20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/leetCode/easy/romanToInteger_13/RomanToInteger13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetCode/easy/romanToInteger_13/RomanToInteger13.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1jJeeQc4KSgESrSLOj3o7oEX4N5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -38,22 +46,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/doktoranturaApi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.ToLowerCase709">
-    <configuration name="PalindromeNumber9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetCode.easy.palindromeNumber_9.PalindromeNumber9" />
+  <component name="RunManager" selected="Application.ValidParentheses20">
+    <configuration name="KidsWithTheGreatestNumberOfCandies1431" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetCode.easy.kidsWithTheGreatestNumberOfCandies_1431.KidsWithTheGreatestNumberOfCandies1431" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.leetCode.easy.defangingAnIpAddress_1108.*" />
+          <option name="PATTERN" value="test.leetCode.easy.kidsWithTheGreatestNumberOfCandies_1431.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.thread.PaymentRunner" />
+    <configuration name="LongestCommonPrefix14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetCode.easy.longestCommonPrefix_14.LongestCommonPrefix14" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.leetCode.easy.defangingAnIpAddress_1108.*" />
+          <option name="PATTERN" value="test.leetCode.easy.longestCommonPrefix_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.leetCode.easy.twoSum_1.TwoSum1" />
+    <configuration name="ValidParentheses20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.leetCode.easy.validParentheses_20.ValidParentheses20" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.leetCode.easy.defangingAnIpAddress_1108.*" />
+          <option name="PATTERN" value="test.leetCode.easy.validParentheses_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,60 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="leetCode" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="leetCode" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ToLowerCase709" />
-        <item itemvalue="Application.PalindromeNumber9" />
+        <item itemvalue="Application.ValidParentheses20" />
+        <item itemvalue="Application.LongestCommonPrefix14" />
+        <item itemvalue="Application.KidsWithTheGreatestNumberOfCandies1431" />
         <item itemvalue="Application.RomanToInteger13" />
-        <item itemvalue="Application.TwoSum1" />
-        <item itemvalue="Application.PaymentRunner" />
+        <item itemvalue="Application.ToLowerCase709" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +172,11 @@
       <workItem from="1653900915218" duration="2405000" />
       <workItem from="1655089296928" duration="1199000" />
       <workItem from="1655349480728" duration="257000" />
-      <workItem from="1658753253364" duration="17836000" />
+      <workItem from="1658753253364" duration="19827000" />
+      <workItem from="1660199634915" duration="1258000" />
+      <workItem from="1660275443225" duration="16757000" />
+      <workItem from="1660299910980" duration="3920000" />
+      <workItem from="1660303870485" duration="2053000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1659520240673</created>
@@ -227,13 +192,23 @@
       <option name="project" value="LOCAL" />
       <updated>1659522419121</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1111">
+      <created>1659522676185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659522676185</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="1111" />
     <option name="LAST_COMMIT_MESSAGE" value="1111" />
   </component>
@@ -242,67 +217,76 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="414" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659519062718" />
-    <state x="185" y="88" key="CommitChangelistDialog2" timestamp="1659522418539">
+    <state x="185" y="88" key="CommitChangelistDialog2" timestamp="1659522675528">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="185" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522418539" />
-    <state width="407" height="466" key="DebuggerActiveHint" timestamp="1652334047039">
+    <state x="185" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522675528" />
+    <state width="407" height="466" key="DebuggerActiveHint" timestamp="1660304319666">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="407" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1652334047039" />
+    <state width="407" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660304319666" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1659503227726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1653541981188" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659503227726" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1659522600194">
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom" timestamp="1660305332106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1652961110580" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522600194" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1659522600194">
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660305332106" />
+    <state width="1877" height="312" key="GridCell.Tab.0.center" timestamp="1660305332106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1652961110579" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522600194" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1659522600193">
+    <state width="1877" height="312" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660305332106" />
+    <state width="1877" height="312" key="GridCell.Tab.0.left" timestamp="1660305332106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1652961110579" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522600193" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1659522600194">
+    <state width="1877" height="312" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660305332106" />
+    <state width="1877" height="312" key="GridCell.Tab.0.right" timestamp="1660305332106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1652961110579" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522600194" />
-    <state width="1877" height="294" key="GridCell.Tab.1.bottom" timestamp="1659522600195">
+    <state width="1877" height="312" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660305332106" />
+    <state width="1877" height="312" key="GridCell.Tab.1.bottom" timestamp="1660305331994">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1652961110580" />
-    <state width="1877" height="294" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522600195" />
-    <state width="1877" height="294" key="GridCell.Tab.1.center" timestamp="1659522600194">
+    <state width="1877" height="312" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660305331994" />
+    <state width="1877" height="312" key="GridCell.Tab.1.center" timestamp="1660305331994">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.1.center/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1652961110580" />
-    <state width="1877" height="294" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522600194" />
-    <state width="1877" height="294" key="GridCell.Tab.1.left" timestamp="1659522600194">
+    <state width="1877" height="312" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660305331994" />
+    <state width="1877" height="312" key="GridCell.Tab.1.left" timestamp="1660305331993">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.1.left/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1652961110580" />
-    <state width="1877" height="294" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522600194" />
-    <state width="1877" height="294" key="GridCell.Tab.1.right" timestamp="1659522600195">
+    <state width="1877" height="312" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660305331993" />
+    <state width="1877" height="312" key="GridCell.Tab.1.right" timestamp="1660305331994">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.1.right/0.0.1920.1040/-1600.286.1600.860@0.0.1920.1040" timestamp="1652961110580" />
-    <state width="1877" height="294" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522600195" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1659522670446">
+    <state width="1877" height="312" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660305331994" />
+    <state x="540" y="262" key="IDE.errors.dialog" timestamp="1660280049707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522670446" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1659522423384">
+    <state x="540" y="262" key="IDE.errors.dialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660280049707" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1660275474872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522423384" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660275474872" />
+    <state x="681" y="261" width="570" height="524" key="StructurePopup" timestamp="1660300386579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="570" height="524" key="StructurePopup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1660300386579" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1659522680448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1659522680448" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -414,12 +398,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/leetCode/easy/romanToInteger_13/RomanToInteger13.java</url>
-          <line>19</line>
+          <line>12</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/leetCode/easy/romanToInteger_13/RomanToInteger13.java</url>
-          <line>27</line>
+          <line>19</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -431,6 +415,21 @@
           <url>file://$PROJECT_DIR$/src/test/leetCode/easy/toLowerCase_709/ToLowerCase709.java</url>
           <line>4</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/leetCode/easy/longestCommonPrefix_14/LongestCommonPrefix14.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/leetCode/easy/kidsWithTheGreatestNumberOfCandies_1431/KidsWithTheGreatestNumberOfCandies1431.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/leetCode/easy/longestCommonPrefix_14/LongestCommonPrefix14.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
