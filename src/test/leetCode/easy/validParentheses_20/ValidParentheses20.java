@@ -1,35 +1,26 @@
 package test.leetCode.easy.validParentheses_20;
 
-import java.util.HashMap;
+import java.util.Stack;
 
 public class ValidParentheses20 {
     public static void main(String[] args) {
-        class Solution {
-            public boolean isValid(String s) {
-                HashMap<String, Integer> character = new HashMap<>();
-                character.put("()", 1);
-                character.put("{}", 2);
-                character.put("[]", 3);
 
-                StringBuilder appendText = new StringBuilder();
+        String str = "[{}]";
+        Stack<Character> stack = new Stack<>();
 
-                for (int i = 0; i < s.length() - 1; i++) {
-                    appendText.append(s.charAt(i)).append(s.charAt(i + 1));
-
-                    if(character.containsKey(appendText.toString())){
-                        i++;
-                        appendText = new StringBuilder();
-                        return true;
-                    } else {
-                        return false;
-                    }
-                }
-                return false;
+        for(int i = 0; i < str.length(); i++){
+            if(str.charAt(i) == '[' || str.charAt(i) == '{' || str.charAt(i) == '('){
+                stack.push(str.charAt(i));
+            } else if(stack.isEmpty() ||
+                    (str.charAt(i) == ')' && stack.peek() != '(') ||
+                    (str.charAt(i) == '}' && stack.peek() != '{') ||
+                    (str.charAt(i) == ']' && stack.peek() != '[') ) {
+                System.out.println(false);
+            } else {
+                stack.pop();
             }
         }
-
-
-
+        System.out.println(stack.empty());
     }
 }
 
